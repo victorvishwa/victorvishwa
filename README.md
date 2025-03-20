@@ -63,20 +63,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br/>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishwab07/vishwab07/output/github-contribution-grid-snake.svg" />
-</div>
 
-<br><br/>
-<!-- Stats -->
-
-
-<hr/>
-
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
