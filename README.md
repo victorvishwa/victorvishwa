@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **AI-Powered Web Applications**
  
- 🌱 I’m currently learning **Docker, AWS, Supabase, and Large Language Models**
+ 🌱 I’m currently learning **Docker and Large Language Models**
 
 💬 Ask me about **Machine Learning, Flask, Node.js, TensorFlow, AI, and Web Development**
 
