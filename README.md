@@ -54,7 +54,7 @@
 <br/>
 
 <p>
-    <strong>Tropical Cyclone RI Prediction</strong><br/>
+   <h3 <strong>Tropical Cyclone RI Prediction</strong><br/> </h3>
     A real-time AI system that predicts the rapid intensification of tropical cyclones using satellite imagery and deep learning models.
 </p>
 
