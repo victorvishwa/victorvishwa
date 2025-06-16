@@ -14,7 +14,7 @@
     🔭 Currently working on <b>AI-Powered Web Apps</b> <br>
     🌱 Exploring <b>Docker</b>, <b>LLMs</b>, and advanced <b>Prompt Engineering</b> <br>
     💬 Ask me about <b>ML, Flask, TensorFlow, Web Dev</b> <br>
-    ⚡ Fun fact: IKEA rugs were used for GoT Night’s Watch cloaks!
+    ⚡ Fun fact: Git was created by Linus Torvalds in just 10 days to manage the Linux kernel code!
   </p>
 
   <br/>
