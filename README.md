@@ -59,12 +59,12 @@
 </p>
 
 <p>
-    <strong>Misinformation Detection System</strong><br/>
+    <h3 <strong>Misinformation Detection System</strong><br/> </h3>
     A BERT-based fake news detection platform with SHAP-based explainability, deployed via a Streamlit frontend for real-time analysis.
 </p>
 
 <p>
-    <strong>AI Document Query System</strong><br/>
+    <h3 <strong>AI Document Query System</strong><br/> </h3>
     A full-stack application that allows users to upload PDFs and query them using a Retrieval-Augmented Generation (RAG) pipeline powered by OpenAI.
 </p>
 
