@@ -53,12 +53,22 @@
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
 <ul>
-    <li><strong>Fake News Detection System</strong> - AI-powered misinformation detection using RoBERTa & NLP.</li>
-    <li><strong>Music Streaming Website</strong> - A web-based audio player with an interactive UI.</li>
-    <li><strong>Netflix Clone</strong> - A full-stack streaming platform with Flask authentication.</li>
-    <li><strong>ML Fashion Recommendation</strong> - AI-based dress prediction system using deep learning.</li>
-    <li><strong>Smart Bin (IoT Project)</strong> - Automated waste management system using sensors.</li>
+    <li>
+        <strong>Tropical Cyclone RI Prediction</strong><br/>
+        A real-time AI system that predicts the rapid intensification of tropical cyclones using satellite imagery and deep learning models.
+    </li>
+    <br/>
+    <li>
+        <strong>Misinformation Detection System</strong><br/>
+        A BERT-based fake news detection platform with SHAP-based explainability, deployed via a Streamlit frontend for real-time analysis.
+    </li>
+    <br/>
+    <li>
+        <strong>AI Document Query System</strong><br/>
+        A full-stack application that allows users to upload PDFs and query them using a Retrieval-Augmented Generation (RAG) pipeline powered by OpenAI.
+    </li>
 </ul>
+
 
 <br/>
 <hr/>
