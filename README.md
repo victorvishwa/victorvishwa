@@ -12,7 +12,7 @@
 
   <p>
     🔭 Currently working on <b>AI-Powered Web Apps</b> <br>
-    🌱 Exploring <b>Docker</b>, <b>LLMs</b>, and advanced <b>Prompt Engineering</b> <br>
+    🌱 Exploring <b>Docker</b>, <b>LLMs</b>, and <b>Prompt Engineering</b> <br>
     💬 Ask me about <b>ML, Flask, TensorFlow, Web Dev</b> <br>
     ⚡ Fun fact: Git was created by Linus Torvalds in just 10 days to manage the Linux kernel code!
   </p>
